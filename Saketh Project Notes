@@ -1,0 +1,66 @@
+Taken from private google doc:
+
+Useful Resource Links 
+{
+  Youtube:
+  {
+    https://www.youtube.com/watch?v=BmiSDPebmgc
+    https://www.youtube.com/watch?v=ZrvAH02pkB4
+    https://www.youtube.com/watch?v=M988_fsOSWo
+    https://www.youtube.com/watch?v=p7MqvJAKLoM
+    https://www.youtube.com/watch?v=36zducUX16w
+    https://www.youtube.com/watch?v=MBUabimpai0
+  }
+  
+  Online articles: 
+  {
+    ** MOST USEFUL ** --> https://breakinggov.com/2011/10/06/homeland-security-cio-testifies-on-cloud-computing-security-dhs/ 
+    https://iq.govwin.com/neo/marketAnalysis/view/Cloud-Computing-at-the-Department-of-Homeland-Security/3798?researchTypeId=1&researchMarket=
+    https://www.dhs.gov/science-and-technology/csd-cloud
+  }
+}
+
+  Link to google slides: https://docs.google.com/presentation/d/1Yp3ZJv49pGPbMO5qMgZiVELTCrFOCSb6qKGjN2yF5cM/edit?usp=sharing 
+
+What is the DHS?
+{
+  The Department of Homeland Security (DHS) protects our country's borders and manages the flow   of people and products into and out of the United States. The DHS helps our country by: helping when disaster strikes, protecting the economy, protecting the borers of the country, making sure our cyber space and critical infrastructure is secure, and preventing terrorism/ homeland attacks.
+}
+
+What is cloud computing?
+{
+  Cloud computing is the use of online computing services on a pay-as-you-go basis instead of having on site inventory and data servers. The advantages to the cloud is that it is easily scalable up or down. There is no need for on site data structures as it can be handled online by offsite providers. 
+}
+
+Cloud computing types
+{
+  There are 3 types of cloud computing: public, private, and hybrid. Public is when there are no on site data structures, the cloud infrastructure is open to everyone in public, and most of the infrastructure is online. Private is when the cloud structure is only owned by a single organization and there are data structures on-site. Hybrid is a mix of both other types.
+}
+
+Email as a service
+{
+ - Service to ensure the privacy of incoming and outgoing emails sent by or to the Department of Homeland Security
+ - Will be used across Headquarters and Federal Emergency Management Agency (FEMA). 
+ - Expected to have at least 100,000 users DHS-wide on this service
+}
+
+SharePoint as a service
+{
+ - Service to help different organizations across the DHS share online resources easier and more securely
+ - Organizations using it will be the Headquarters and United States Citizenship and Immigration Services
+ - Expected to have at least 90,000 users
+}
+
+WorkPlace as a service
+{
+ - Enabling a mobile workforce is important
+ - Will provide robust virtual desktop, remote access, and other mobile services for DHS users nationwide
+ - The expectation is that the service reduces yearly expenditures on traditional desktop and laptops
+}
+
+Project server as a service
+{
+ - A management service to help publish project schedules that can be easily shared across offices and divisions
+ - Improves the standardization of project management 
+ - Supports the efforts to improve the management of both IT and non-IT programs 
+}
